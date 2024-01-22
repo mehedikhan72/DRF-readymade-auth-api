@@ -1,12 +1,12 @@
 # Hi there! 👋
 
-### This is a readymade api with authentication implemented. This api is built using Django Rest framework and simple JWT. I made for my personal use for future projects. Feel free to use it.
+### This is a readymade api with authentication implemented. This api is built using Django Rest framework and simple JWT. I made it for my personal use for future projects. Feel free to use it.
 
 #### Hope you find things easy to understand here. If you have any doubts, feel free to contact [me.](https://github.com/mehedikhan72)
 
 ## How to gear up the server.
 
-1. Install python 3.10.12 and pip on your system.
+1. Install python 3.10.12(other versions(>3) should work as well. 3.10.12 is the current version at the time of developing this.) and pip on your system.
 2. Clone the repository into a directory. (Or fork your own copy and clone it, if you want to contribute.)
 3. 'cd' into the directory where 'manage.py' is in.
 4. Create a virtual environment in this directory and activate it.
@@ -21,11 +21,11 @@
 
 ### Admin credentials
 
-#### email: tef@gmail.com
+#### email: 'tef@gmail.com'
 
-#### password: tef
+#### password: 'tef'
 
-#### Disclaimer 1: This authentication system used email instead of username(which is the default). So, you'll have to use the email to login and register!
+#### Disclaimer 1: This authentication system uses email instead of username(which is the default one in django). So, you'll have to use the email to login and register, as email seems to be the more standard way of authentication.
 
 #### Disclaimer 2: Make sure to migrate the database before running the server. Use the following commands.
 

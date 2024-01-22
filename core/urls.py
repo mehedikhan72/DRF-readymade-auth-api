@@ -31,7 +31,7 @@ schema_view = get_schema_view(
         description="API Documentation for DRF Readymade Auth. Feel free to use it for your projects.",
         terms_of_service="",
         contact=openapi.Contact(email="mehedi.72.khan@gmail.com"),
-        license=openapi.License(name="None"),
+        license=openapi.License(name="No License"),
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
