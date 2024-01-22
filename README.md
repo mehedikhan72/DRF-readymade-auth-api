@@ -30,6 +30,7 @@
 #### Disclaimer 2: Make sure to migrate the database before running the server. Use the following commands.
 
 `python manage.py makemigrations`
+
 `python manage.py migrate`
 
 ## API documentaion
