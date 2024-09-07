@@ -25,7 +25,7 @@
 
 #### password: 'tef'
 
-#### Disclaimer 1: This authentication system uses email instead of username(which is the default one in django). So, you'll have to use the email to login and register, as email seems to be the more standard way of authentication.
+#### Disclaimer 1: This authentication system uses email instead of username(which is the default one in django). So, you'll have to use the email to login and register, as email seems to be a more standard way of authentication.
 
 #### Disclaimer 2: Make sure to migrate the database before running the server. Use the following commands.
 
